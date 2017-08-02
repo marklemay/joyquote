@@ -19,7 +19,7 @@ Slides from the talk are also available as a [plain pdf][4].
 
 [1]: http://docs.scala-lang.org/overviews/quasiquotes/intro.html
 
-[2]: http://parleys.com/play/53a7d2c4e4b0543940d9e53e/chapter0/about
+[2]: https://www.youtube.com/watch?v=_c6SMsZNxms
 
 [3]: https://github.com/densh/joyquote/commits/master
 
